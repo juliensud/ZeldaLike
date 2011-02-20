@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1297601931 source:c:\users\mikael\documents\sfml\main.cpp
+	<cstdlib>
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Bar.h"
+	"Ball.h"
+	"CollisionManager.h"
+	"constantes.h"
+
+1297114232 s.h"
+
+1297601169 source:c:\users\mikael\documents\sfml\ball.cpp
+	<iostream>
+	"Ball.h"
+
+1297941379 
+
+1294782572 source:c:\users\mikael\documents\sfml\bar.cpp
+	<iostream>
+	"Bar.h"
+	"constantes.h"
+
+1294781815 c:\users\mikael\documents\sfml\bar.h
+	<SFML/Graphics.hpp>
+
+1297941380 hics.hpp>
+
+1297598774 source:c:\users\mikael\documents\sfml\collisionmanager.cpp
+	"CollisionManager.h"
+
+1297598774 Manager.h"
+
+1294346798 c:\users\mikael\documents\sfml\collisionmanager.h
+	<SFML/Graphics.hpp>
+	"Bar.h"
+	"Ball.h"
+
+1297601614 c:\users\mikael\documents\sfml\ball.h
+	<SFML/Graphics.hpp>
+	"constantes.h"
+
+1297113094 c:\users\mikael\documents\sfml\constantes.h
+
+1297164558 source:c:\users\mikael\documents\sfml\score.cpp
+	"Score.h"
+
+1297114232 c:\users\mikael\documents\sfml\score.h
+	<SFML/Graphics.hpp>
+	"constantes.h"
+
+1297941379 source:c:\users\mikael\documents\sfml\julien & co project\animated.cpp
+	"Animated.hpp"
+
+1297941379 hpp"
+
+1297941379 c:\users\mikael\documents\sfml\julien & co project\animated.hpp
+	"Anim.hpp"
+
+1297941379 c:\users\mikael\documents\sfml\julien & co project\anim.hpp
+	<vector>
+	"Frame.hpp"
+
+1297941379 "
+
+1297941380 c:\users\mikael\documents\sfml\julien & co project\frame.hpp
+	<SFML/Graphics.hpp>
+
+1297941379 source:c:\users\mikael\documents\sfml\julien & co project\frame.cpp
+	"Frame.hpp"
+
+1297941379 source:c:\users\mikael\documents\sfml\julien & co project\anim.cpp
+	"Anim.hpp"
+
+1297941379 source:/home/mikael/Code::Blocks Projects/SFML/Julien & Co Project/Anim.cpp
+	"Anim.hpp"
+
+1297941379 /home/mikael/Code::Blocks Projects/SFML/Julien & Co Project/Anim.hpp
+	<vector>
+	"Frame.hpp"
+
+1297941380 /home/mikael/Code::Blocks Projects/SFML/Julien & Co Project/Frame.hpp
+	<SFML/Graphics.hpp>
+
+1297941379 source:/home/mikael/Code::Blocks Projects/SFML/Julien & Co Project/Animated.cpp
+	"Animated.hpp"
+
+1297941379 /home/mikael/Code::Blocks Projects/SFML/Julien & Co Project/Animated.hpp
+	"Anim.hpp"
+
+1297941379 source:/home/mikael/Code::Blocks Projects/SFML/Julien & Co Project/Frame.cpp
+	"Frame.hpp"
+
+1298143979 source:/home/mikael/Code::Blocks Projects/SFML/Julien & Co Project/main.cpp
+	"Animated.hpp"
+
